@@ -61,6 +61,7 @@ bangball.zip
 bangbead.zip
 batcir.zip
 batmanfr.zip
+segabill.zip
 batrider.zip
 batrideru.zip
 batsugun.zip
