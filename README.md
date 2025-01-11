@@ -2,6 +2,9 @@
 Top 1000 MAME Games
 This script will copy all BIOS and approx top 900 games to a folder you choose.
 
+Discuss here:
+https://www.retroroms.info/forum/topic/Top-1000-MAME-games.htm
+
 Download the script and list file:
 file_copy.ps1
 file_copy_list.txt
