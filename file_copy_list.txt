@@ -12,7 +12,6 @@
 88games.zip
 9ballsht.zip
 aerofgts.zip
-agallet.zip
 agalletu.zip
 airbustr.zip
 airwolf.zip
@@ -33,10 +32,8 @@ ar_spot.zip
 arabfgt.zip
 arabian.zip
 archrivl.zip
-archrivlb.zip
 area51.zip
 arkangc.zip
-armwar.zip
 armwaru.zip
 astdelux.zip
 asterix.zip
@@ -53,7 +50,6 @@ athena.zip
 avengers.zip
 avsp.zip
 avspirit.zip
-avspu.zip
 baddudes.zip
 bagman.zip
 bakubaku.zip
@@ -62,7 +58,6 @@ bangbead.zip
 batcir.zip
 batmanfr.zip
 segabill.zip
-batrider.zip
 batrideru.zip
 batsugun.zip
 batsugunsp.zip
