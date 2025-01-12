@@ -4,9 +4,17 @@
 # Set-ExecutionPolicy RemoteSigned
 # Set the source and destination folders
 
-$sourceFolder = "D:\Games\MAME\roms"
-$destinationFolder = "C:\tmp\arcade"
-$fileList = "file_copy_list.txt"
+#$sourceFolder = "E:\Games\SynologyDrive1\need to sort\Project64\roms\Nintendo - Nintendo64 - Ultra64"
+#$destinationFolder = "E:\Games\ES-DE\roms\n64"
+#$fileList = "file_copy_list_n64.txt"
+
+#$sourceFolder = "E:\Games\SynologyDrive1\Snes9x\roms\Nintendo - Super Nintendo"
+#$destinationFolder = "E:\Games\ES-DE\roms\snes"
+#$fileList = "file_copy_list_snes.txt"
+
+#$sourceFolder = "E:\Games\SynologyDrive1\mame"
+#$destinationFolder = "E:\Games\ES-DE\roms\arcade"
+$fileList = "file_copy_list_mame.txt"
 
 # Output files
 $copiedLog = "file_copy_report_files_copied.txt"
