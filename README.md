@@ -18,7 +18,7 @@ $destinationFolder = "C:\tmp\arcade"
 
 Open a powershell as admin and run:
 
-Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Unrestricted
 
 Now you can run the script.  There are two modes:
 
