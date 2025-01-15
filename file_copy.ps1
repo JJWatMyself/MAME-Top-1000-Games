@@ -12,9 +12,9 @@
 #$destinationFolder = "E:\Games\ES-DE\roms\snes"
 #$fileList = "file_copy_list_snes.txt"
 
-#$sourceFolder = "E:\Games\SynologyDrive1\mame"
-#$destinationFolder = "E:\Games\ES-DE\roms\arcade"
-$fileList = "file_copy_list_mame.txt"
+$sourceFolder = "E:\Games\SynologyDrive1\mame"
+$destinationFolder = "E:\Games\ES-DE\roms\arcade"
+$fileList = "file_copy_list_mame_top1000_nobios.txt"
 
 # Output files
 $copiedLog = "file_copy_report_files_copied.txt"
