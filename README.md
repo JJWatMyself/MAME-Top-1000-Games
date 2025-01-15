@@ -43,7 +43,4 @@ All credits for game selection to the following posts:
 
 http://forum.arcadecontrols.com/index.php/topic,149708.msg1563036.html#msg1563036
 https://hyperspin-fe.com/files/file/11710-griffin518s-best-of-mame-xml-database/
-https://www.reddit.com/r/MAME/comments/2rawpr/i_compiled_several_best_ofrecommended_arcade/All credits for game selection to the following posts:
-http://forum.arcadecontrols.com/index.php/topic,149708.msg1563036.html#msg1563036
-https://hyperspin-fe.com/files/file/11710-griffin518s-best-of-mame-xml-database/
 https://www.reddit.com/r/MAME/comments/2rawpr/i_compiled_several_best_ofrecommended_arcade/
