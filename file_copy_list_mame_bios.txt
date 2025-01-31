@@ -73,3 +73,16 @@ taitotz.zip
 tourvis.zip
 triforce.zip
 v4bios.zip
+bsmt2000.zip
+midssio.zip
+namco50.zip
+namco51.zip
+namco52.zip
+namco53.zip
+namco54.zip
+namcoc70.zip
+namcoc75.zip
+namcoc76.zip
+tms32031.zip
+wmsnarc.zip
+ym2608.zip
