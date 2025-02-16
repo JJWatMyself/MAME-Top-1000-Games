@@ -59,9 +59,7 @@ bangbead.zip
 bstars2.zip
 batmanfr.zip
 batsugun.zip
-batsugunsp.zip
 ts2.zip
-bbakraidja.zip
 bbakraid.zip
 bchopper.zip
 batcir.zip
@@ -127,7 +125,6 @@ choplift.zip
 chukatai.zip
 circusc.zip
 citycon.zip
-citycona.zip
 clshroad.zip
 cloak.zip
 cobracom.zip
@@ -158,7 +155,6 @@ dstlku.zip
 deadconx.zip
 doapp.zip
 deathsml.zip
-dsmbl.zip
 defender.zip
 dmnfrnt.zip
 demonwld.zip
@@ -181,7 +177,6 @@ donpachi.zip
 dkong.zip
 dkong3.zip
 dkongx.zip
-dkongjrb.zip
 dkongjr.zip
 ddragon.zip
 ddragon3.zip
@@ -232,7 +227,6 @@ frogger.zip
 frontlin.zip
 funkyjet.zip
 gdarius.zip
-gdarius2.zip
 gijoeu.zip
 gaia.zip
 gaiapols.zip
@@ -308,7 +302,6 @@ joust2.zip
 jrpacman.zip
 jjack.zip
 jungleh.zip
-junglek.zip
 junofrst.zip
 kangaroo.zip
 karianx.zip
@@ -411,7 +404,6 @@ mspacmab.zip
 mmpork.zip
 mushisam.zip
 futariblj.zip
-futaribl.zip
 mutnat.zip
 mysticri.zip
 mystwarr.zip
@@ -494,7 +486,6 @@ psychic5.zip
 oscar.zip
 pulirula.zip
 puchicar.zip
-puckman.zip
 pulstar.zip
 punchout.zip
 punkshot.zip
@@ -536,7 +527,6 @@ rampage.zip
 rmpgwt.zip
 rampart.zip
 rastan.zip
-rastsaga.zip
 raystorm.zip
 rbff2.zip
 recalh.zip
@@ -586,7 +576,6 @@ senkyu.zip
 sexyparo.zip
 shdancer.zip
 shadfrce.zip
-shadoww.zip
 shienryu.zip
 shinobi.zip
 shocktro.zip
@@ -609,8 +598,6 @@ sokyugrt.zip
 soulclbr.zip
 spacduel.zip
 sharrier.zip
-sicv.zip
-invaders.zip
 spacedx.zip
 panic.zip
 speedspn.zip
@@ -624,7 +611,6 @@ stakwin2.zip
 starcas.zip
 starglad.zip
 starw.zip
-stargate.zip
 stonebal.zip
 stmblade.zip
 sf.zip
@@ -634,7 +620,6 @@ sfau.zip
 sfexa.zip
 sfex2p.zip
 sf2ceuc.zip
-sf2hf.zip
 sf2.zip
 sfiii2.zip
 sfiii3u.zip
@@ -685,7 +670,6 @@ terraf.zip
 atetris.zip
 tetrisp2.zip
 tgm2.zip
-tgm2p.zip
 tms32031.zip
 astyanax.zip
 edrandy.zip
@@ -712,7 +696,6 @@ thunderx.zip
 thndrx2.zip
 theroes.zip
 thoop.zip
-thndzone.zip
 tigeroad.zip
 timber.zip
 timeplt.zip
@@ -767,7 +750,6 @@ wwfsstaru7.zip
 wwfwfest.zip
 wwfmania.zip
 wakuwak7.zip
-wardner.zip
 warlords.zip
 warriorb.zip
 wof.zip
