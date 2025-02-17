@@ -499,7 +499,6 @@ uopoko.zip
 mushitam.zip
 joyjoy.zip
 puzzli2.zip
-puzzli2s.zip
 pyros.zip
 qbert.zip
 qsound.zip
