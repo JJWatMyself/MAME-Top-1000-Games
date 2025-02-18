@@ -194,7 +194,6 @@ dynwar.zip
 eswat.zip
 edf.zip
 esprade.zip
-eagle.zip
 ecofghtru.zip
 ehrgeiz.zip
 eightman.zip
@@ -310,7 +309,6 @@ kicker.zip
 kidniki.zip
 kinst.zip
 kinst2.zip
-kingofb.zip
 kotm.zip
 kotm2.zip
 kingdmgp.zip
